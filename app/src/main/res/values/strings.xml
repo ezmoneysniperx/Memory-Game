@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="stop"></string>
+    <string name="start"></string>
+    <string name="working"></string>
+    <string name="stopped"></string>
+</resources>
